@@ -1,0 +1,53 @@
+Test suite boggle-tests: RUNNING...
+Cases: 7  Tried: 0  Errors: 0  Failures: 0                                          ### Error in:   0
+Prelude.last: empty list
+CallStack (from HasCallStack):
+  error, called at libraries\base\GHC\List.hs:1646:3 in base:GHC.List
+  errorEmptyList, called at libraries\base\GHC\List.hs:156:13 in base:GHC.List
+  lastError, called at libraries\base\GHC\List.hs:151:29 in base:GHC.List
+  last, called at lib\Boggle.hs:27:79 in boggle-0.1.0.0-inplace-boggle-lib:Boggle
+Cases: 7  Tried: 1  Errors: 1  Failures: 0                                          ### Error in:   1
+Prelude.last: empty list
+CallStack (from HasCallStack):
+  error, called at libraries\base\GHC\List.hs:1646:3 in base:GHC.List
+  errorEmptyList, called at libraries\base\GHC\List.hs:156:13 in base:GHC.List
+  lastError, called at libraries\base\GHC\List.hs:151:29 in base:GHC.List
+  last, called at lib\Boggle.hs:27:79 in boggle-0.1.0.0-inplace-boggle-lib:Boggle
+Cases: 7  Tried: 2  Errors: 2  Failures: 0                                          ### Error in:   2
+Prelude.last: empty list
+CallStack (from HasCallStack):
+  error, called at libraries\base\GHC\List.hs:1646:3 in base:GHC.List
+  errorEmptyList, called at libraries\base\GHC\List.hs:156:13 in base:GHC.List
+  lastError, called at libraries\base\GHC\List.hs:151:29 in base:GHC.List
+  last, called at lib\Boggle.hs:27:79 in boggle-0.1.0.0-inplace-boggle-lib:Boggle
+Cases: 7  Tried: 3  Errors: 3  Failures: 0                                          ### Error in:   3
+Prelude.last: empty list
+CallStack (from HasCallStack):
+  error, called at libraries\base\GHC\List.hs:1646:3 in base:GHC.List
+  errorEmptyList, called at libraries\base\GHC\List.hs:156:13 in base:GHC.List
+  lastError, called at libraries\base\GHC\List.hs:151:29 in base:GHC.List
+  last, called at lib\Boggle.hs:27:79 in boggle-0.1.0.0-inplace-boggle-lib:Boggle
+Cases: 7  Tried: 4  Errors: 4  Failures: 0                                          ### Error in:   4
+Prelude.last: empty list
+CallStack (from HasCallStack):
+  error, called at libraries\base\GHC\List.hs:1646:3 in base:GHC.List
+  errorEmptyList, called at libraries\base\GHC\List.hs:156:13 in base:GHC.List
+  lastError, called at libraries\base\GHC\List.hs:151:29 in base:GHC.List
+  last, called at lib\Boggle.hs:27:79 in boggle-0.1.0.0-inplace-boggle-lib:Boggle
+Cases: 7  Tried: 5  Errors: 5  Failures: 0                                          ### Error in:   5
+Prelude.last: empty list
+CallStack (from HasCallStack):
+  error, called at libraries\base\GHC\List.hs:1646:3 in base:GHC.List
+  errorEmptyList, called at libraries\base\GHC\List.hs:156:13 in base:GHC.List
+  lastError, called at libraries\base\GHC\List.hs:151:29 in base:GHC.List
+  last, called at lib\Boggle.hs:27:79 in boggle-0.1.0.0-inplace-boggle-lib:Boggle
+Cases: 7  Tried: 6  Errors: 6  Failures: 0                                          ### Error in:   6
+Prelude.last: empty list
+CallStack (from HasCallStack):
+  error, called at libraries\base\GHC\List.hs:1646:3 in base:GHC.List
+  errorEmptyList, called at libraries\base\GHC\List.hs:156:13 in base:GHC.List
+  lastError, called at libraries\base\GHC\List.hs:151:29 in base:GHC.List
+  last, called at lib\Boggle.hs:27:79 in boggle-0.1.0.0-inplace-boggle-lib:Boggle
+Cases: 7  Tried: 7  Errors: 7  Failures: 0
+Test suite boggle-tests: FAIL
+Test suite logged to: C:\Users\mattb\Desktop\CPS 506 Labs\Assignment3\dist-newstyle\build\x86_64-windows\ghc-9.4.8\boggle-0.1.0.0\t\boggle-tests\test\boggle-0.1.0.0-boggle-tests.log
